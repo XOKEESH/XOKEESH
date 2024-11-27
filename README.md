@@ -1,6 +1,6 @@
-## Hello there, my name is Kisha Martin!
+## Hello there, I'm Kisha!
 
-### I'm currently enrolled in a Software Engineering program at General Assembly to expand my technical skills.
+#### I'm currently enrolled in a Software Engineering program at General Assembly to expand my technical skills.
 
 - 👩🏽‍💻 I’m a full stack developer with a UX background, passionate about crafting user-centered, visually engaging interfaces.
 - 🌍 I'm based in Los Angeles, CA
