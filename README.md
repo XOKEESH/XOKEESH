@@ -2,7 +2,7 @@
 
 #### I'm currently enrolled in a Software Engineering program at General Assembly to expand my technical skills.
 
-- 👩🏽‍💻 I’m a full stack developer with a UX background, passionate about crafting user-centered, visually engaging interfaces.
+- 👩🏽‍💻 I’m a UX designer & software developer with a passion for problem-solving and creating impactful user experiences.
 - 🌍 I'm based in Los Angeles, CA
 - 🖥️ Check out my portfolio at www.kishamartin.com
 - ✉️ You can contact me at hello@kishamartin.com
