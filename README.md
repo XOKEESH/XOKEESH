@@ -6,6 +6,6 @@
 - 🌍 I'm based in Los Angeles, CA
 - 🖥️ Check out my portfolio at www.kishamartin.com
 - ✉️ You can contact me at hello@kishamartin.com
-- 🧠 Currently learning React & Python.
+- 🧠 Currently learning Django & Python.
 - 🤝 Open to collaborating on projects that blend design and functionality!
 - ⚡ Fun fact: I teach sewing workshops and have two adorable pups, Kniko and Stormi 🐶.
